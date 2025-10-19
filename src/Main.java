@@ -4,5 +4,6 @@ public class Main {
         System.out.println("권하연");
         World.run();
         World.run2();
+        Hello.run();
     }
 }
